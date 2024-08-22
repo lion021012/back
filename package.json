@@ -1,0 +1,19 @@
+{
+    "name": "tgthon-fist",
+    "version": "1.0.0",
+    "description": "",
+    "main": "index.js",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "author": "penguin1234",
+    "license": "ISC",
+    "dependencies": {
+        "cors": "^2.8.5",
+        "express": "^4.19.2",
+        "luxon": "^3.5.0",
+        "node-jsencrypt": "^1.0.0",
+        "request": "^2.88.2",
+        "uuid4": "^2.0.3"
+    }
+}
